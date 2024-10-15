@@ -1,13 +1,4 @@
-/*
-
-Input
-5
-1 4 2 3 5
-
-Output
-2 5 4 5 0
-
-*/
+/* Passed */
 
 #include <iostream>
 #include <stack>

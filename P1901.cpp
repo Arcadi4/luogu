@@ -1,3 +1,5 @@
+/* Passed */
+
 #include <iostream>
 #include <stack>
 #include <utility>

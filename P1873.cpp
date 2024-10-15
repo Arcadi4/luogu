@@ -12,6 +12,4 @@ int main() {
         cin >> height;
         heights.at(i) = height;
     }
-
-    
 }

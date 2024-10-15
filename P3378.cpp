@@ -1,3 +1,5 @@
+/* Passed */
+
 #include <__utility/pair.h>
 #include <cstddef>
 #include <iostream>
