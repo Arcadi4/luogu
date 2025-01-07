@@ -4,12 +4,12 @@
 using namespace std;
 
 int main() {
-    int n, demandedLength;
-    cin >> n >> demandedLength;
-    vector<int> heights(n);
+    unsigned int n, m;
+    cin >> n >> m;
+    vector<unsigned int> trees(n);
     for (int i = 0; i < n; i++) {
-        int height;
-        cin >> height;
-        heights.at(i) = height;
+        cin >> trees.at(i);
     }
+
+    unsigned int min = 1, max = 400001;
 }
